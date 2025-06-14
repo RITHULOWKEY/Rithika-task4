@@ -14,7 +14,7 @@ This project is a clean and modern **Personal Portfolio Website** created using 
 
 ## 🚀 Live Demo
 
-🌐 [View Project Live](https://rithulowkey.github.io/Rithika-task4/)
+🌐 [View link]https://rithikalowkey.neocities.org/
 
 ## 📁 Project Structure
 
